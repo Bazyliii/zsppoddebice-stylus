@@ -1,0 +1,137 @@
+[
+  {
+    "settings": {
+      "openEditInWindow": true,
+      "openEditInWindow.popup": false,
+      "windowPosition": {},
+      "show-badge": true,
+      "disableAll": false,
+      "exposeIframes": false,
+      "newStyleAsUsercss": false,
+      "styleViaXhr": false,
+      "config.autosave": true,
+      "popup.breadcrumbs": true,
+      "popup.breadcrumbs.usePath": false,
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findStylesInline": true,
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": true,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.newUI": true,
+      "manage.newUI.favicons": false,
+      "manage.newUI.faviconsGray": true,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "sublime",
+      "editor.theme": "3024-day",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_size": 4,
+        "indent_char": " ",
+        "translate_positions": [
+          {
+            "line": 15,
+            "ch": 30,
+            "sticky": "after",
+            "xRel": 1.890625
+          },
+          {
+            "line": 15,
+            "ch": 31,
+            "sticky": "before",
+            "xRel": -2.71875
+          }
+        ]
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": true,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.appliesToLineWidget": true,
+      "editor.livePreview": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "#1177d1",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "none",
+      "iconset": 0,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "popupWidth": 246,
+      "updateInterval": 24
+    }
+  },
+  {
+    "enabled": true,
+    "updateUrl": null,
+    "md5Url": null,
+    "url": null,
+    "originalMd5": null,
+    "installDate": 1607006122679,
+    "name": "zsppoddebice.pl",
+    "sections": [
+      {
+        "code": "* {\n    color: white!important;\n}\n.bg-dark {\n    background: #121212!important;\n}\n.navbar-brand img {\n    display: none\n}\n.col-12,\n.list-group,\n.list-group-item,\n.row,\n.pt-3 .card-body,\n#region-main-box,\n.bg-light {\n    background: #2b2b2b!important;\n}\n#yui_3_17_2_1_1606994996815_141,\n.dropdown-menu,\n.header-container,\n.form-control,\n.text-center,\n.content-message-container,\n.popover-region-content-container,\n.popover-region-header-container,\n.popover-region-seeall-text,\n.card,\n#page-enrol-users #filterform,\n.que .history,\n.userprofile .profile_tree section,\n.groupinfobox,\n.well,\nbody,\n.bg-white,\n.bg-gray,\n.btn-secondary,\n.btn-default,\n.card-text li a,\n.card-text .message,\n.menu-action,\n.dropdown-item,\n.profile_tree,\n.custom-select,\n.card-body p-3,\n.list-group-item,\n.p-0,\n.row,\n.no-gutters,\n.main,\n.moodle-has-zindex,\n.modal-content,\n#region-main,\nth,\n.align-bottom,\ntd {\n    background: #262626!important;\n}\n\n\n.message,\n.message .d-flex,\n.card-deck .dashboard-card,\n.card-footer,\n.hover-tooltip-container .hover-tooltip,\n.popover,\n.bs-popover-top,\n.popover-header,\n.db textarea {\n    background: #383838!important;\n}\n.tail,\n.img-fluid,\n#yui_3_17_2_1_1606998342903_32,\n#yui_3_17_2_1_1606999305376_31,\n.region_main_settings_menu_proxy,\n#yui_3_17_2_1_1607005402944_32 {\n    display: none;\n}\n.dropdown-item:hover,\n.dropdown-item:hover,\n.alert-block,\n.card-header,\n.submissionnotgraded,\n.progress-bar,\n#page-mod-quiz-view table.quizattemptsummary tr.bestrow td,\n#nav-drawer .list-group-item-action:hover {\n    background: #1177d1!important;\n}\n.path-calendar .maincalendar .calendar_event_course,\n.preferences-container .preference-table,\n.border-bottom {\n    border: none\n}\n.submissionstatussubmitted,\n.earlysubmission,\n.submissiongradedm,\n.calendar_event_site {\n    background: #049114!important;\n}\n.submissionlocked {\n    background: #ac1903!important;\n}\n.border,\n.db textarea {\n    border: none!important;\n}\n.region-main {\n    padding: 20px\n}\n.calendar_event_category {\n    background: #d20abb;\n}\n.calendar_event_course,\n.path-calendar .maincalendar .calendarmonth ul li .badge.badge-circle.calendar_event_course {\n    background: #f06e37;\n}\n.calendar_event_group {\n    background: #ccc200;\n}\n.calendar_event_user {\n    background: #0ab7d2;\n}\n.course-content ul li.section.main {\n    border-bottom: none!important\n}\n.table th,\ntable.collection th,\ntable.flexible th,\n.generaltable th,\n.table td,\ntable.collection td,\ntable.flexible td,\n.generaltable td {\n    border-top: 0!important\n}\n.popover-region-container {\n    border: none;\n}\n.popover-region-footer-container {\n    border: none;\n    padding-top: 0;\n}\n.popover-region-toggle::after {\n    content: none;\n}\n::-webkit-scrollbar {\n    width: 10px;\n}\n::-webkit-scrollbar-track {\n    background: #888;\n}\n::-webkit-scrollbar-thumb {\n    background: #1177d1;\n}\n::-webkit-scrollbar-thumb:hover {\n    background: #094477;\n}\n.list-group a:hover {\n    text-decoration: underline;\n    background: none;\n}\n.list-group-item.active {\n    border: 1px solid rgba(0, 0, 0, .125);\n}",
+        "domains": [
+          "zsppoddebice.pl"
+        ]
+      },
+      {
+        "code": "#page-header .card {\n    display: none\n}",
+        "urls": [
+          "http://e-nauka.zsppoddebice.pl/?redirect=0"
+        ]
+      },
+      {
+        "code": "#region-main {\n    background: none!important;\n}",
+        "urls": [
+          "http://e-nauka.zsppoddebice.pl/my/"
+        ]
+      },
+      {
+        "code": "td {\n    width: 200px\n}\n.preferences-container .preference-table .preference-row .preference-state .preference-state-status-container {\n    width: 120%\n}",
+        "urlPrefixes": [
+          "http://e-nauka.zsppoddebice.pl/message/notificationpreferences"
+        ]
+      }
+    ],
+    "updateDate": 1607006122679,
+    "_id": "3bbf1367-9ac3-4ba1-a201-2960fd71e638",
+    "_rev": 1607006122679,
+    "id": 5
+  }
+]
